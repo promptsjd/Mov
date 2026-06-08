@@ -1,0 +1,27 @@
+# Built output
+/build/
+/app/build/
+
+# Gradle caches
+/.gradle/
+.gradle/
+
+# Local machine config — never commit
+local.properties
+
+# Android Studio — machine-specific IDE files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/.name
+.idea/compiler.xml
+.idea/deploymentTargetSelector.xml
+.idea/vcs.xml
+*.iml
+
+# OS noise
+.DS_Store
+Thumbs.db
